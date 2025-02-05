@@ -18,7 +18,7 @@ Le aziende si trovano spesso a fronteggiare la sfida di gestire e migliorare la 
 - **Fase 2: Creazione della Pipeline CI/CD**
   - **Pipeline CI/CD**: Sviluppare una pipeline automatizzata per il training del modello, i test di integrazione e il deploy dell'applicazione su HuggingFace.
 - **Fase 3: Deploy e Monitoraggio Continuo**
-  - **Deploy su HuggingFace**: Implementare il modello di analisi del sentiment, inclusi dati e applicazione, su HuggingFace per facilitare l'integrazione e la scalabilità.
+  - **Deploy su HuggingFace** (facoltativo): Implementare il modello di analisi del sentiment, inclusi dati e applicazione, su HuggingFace per facilitare l'integrazione e la scalabilità.
   - **Sistema di Monitoraggio**: Configurare un sistema di monitoraggio per valutare continuamente le performance del modello e il sentiment rilevato.
 - **Consegna**
   - **Codice Sorgente**: Repository pubblica su GitHub con codice ben documentato per la pipeline CI/CD e l'implementazione del modello.
