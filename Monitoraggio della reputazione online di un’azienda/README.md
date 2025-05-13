@@ -21,7 +21,7 @@ Le aziende si trovano spesso a fronteggiare la sfida di gestire e migliorare la 
   - **Deploy su HuggingFace** (facoltativo): Implementare il modello di analisi del sentiment, inclusi dati e applicazione, su HuggingFace per facilitare l'integrazione e la scalabilità.
   - **Sistema di Monitoraggio**: Configurare un sistema di monitoraggio per valutare continuamente le performance del modello e il sentiment rilevato.
 - **Consegna**
-  - **Codice Sorgente**: Repository pubblica su GitHub con codice ben documentato per la pipeline CI/CD e l'implementazione del modello.
+  - **Codice Sorgente**: Repository pubblica su GitHub con codice ben documentato per la pipeline CI/CD e l'implementazione del modello. La consegna vera e propria dovrà avvenire mediante un notebook google colab con al suo interno il link al repository GitHub.
   - **Documentazione**: Descrizione delle scelte progettuali, delle implementazioni e dei risultati ottenuti durante il progetto.
 
 **Motivazione del Progetto**
